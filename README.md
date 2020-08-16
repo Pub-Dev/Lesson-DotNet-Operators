@@ -5,7 +5,7 @@ References:
 
  - [C# operators (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
  
- Aproveite e se inscreva no nosso canal no youtube : [PubDev](https://www.youtube.com/channel/UCF8Ctp1tamA9TV1hp0azjhg)
+ Aproveite e se inscreva no nosso canal no youtube : [PubDev](https://www.youtube.com/c/PubDev)
 
  e nos siga nas redes sociais!
 
